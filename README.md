@@ -29,36 +29,3 @@ Je suis passionné par l'apprentissage continu et la contribution à des projets
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité intéressante. Merci de visiter mon profil ! 😊
 
 
-
-
-# Welcome to my GitHub profile 👋
-
-## About Me
-
-I'm a novice web developer, specializing in web and mobile development. My core skills include JavaScript, PHP, and I'm currently excited about delving into the exciting world of ReactJS.
-
-## Skills
-
-- JavaScript
-- PHP
-- HTML5 & CSS3
-- ReactJS (currently learning)
-
-## Projects
-
-### Movie Directory
-
-I recently worked on a movie directory project. It was a fantastic experience to apply my freshly acquired knowledge. The project involves [briefly describe its purpose and features].
-
-**Link to the project:** [Movie Directory](project_link)
-
-## Goals
-
-I am passionate about continuous learning and contributing to open-source projects. My primary goal is to enhance my skills in ReactJS and collaborate with the developer community.
-
-## Contact
-- 📧 allandehors@gmail.com
-
-Feel free to explore my projects and reach out for any collaboration or interesting opportunities. Thank you for visiting my profile! 😊
-
-
